@@ -23,6 +23,6 @@ Build Website
 
 ### Authors
 
->#### Malav Patel - [Instagram](https://www.instagram.com/just_me_malav/)
+>#### Malav Patel - [Instagram](https://www.instagram.com/yo.malu/)
 >
->#### Shrey Patel - [Instagram](https://www.instagram.com/baba_.7)
+>#### Shrey Patel - [Instagram](https://www.instagram.com/shrey.patel_7/)
