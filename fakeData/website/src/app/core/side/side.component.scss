@@ -1,0 +1,48 @@
+:host {
+  display: inline-flex;
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+  color: var(--main-ui-alt-color);
+  padding: 1rem;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+// #title {
+//     padding: 0;
+//     margin: 1rem 0;
+//     font-size: 2rem;
+// }
+
+mat-form-field {
+  box-sizing: border-box;
+  align-self: stretch;
+}
+
+#results {
+  overflow-y: auto;
+}
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+// @media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+// @media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  :host {
+    flex-direction: column;
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+// @media (min-width: 1200px) { ... }

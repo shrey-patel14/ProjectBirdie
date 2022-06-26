@@ -1,0 +1,11 @@
+# Output
+/dist
+# /mongo
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+.vscode/settings.json

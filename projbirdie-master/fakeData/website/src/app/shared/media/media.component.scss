@@ -1,0 +1,19 @@
+:host {
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    img {
+        flex: 0 0 auto;
+    }
+    h3 {
+        margin: 0;
+        padding: 0.25rem;
+        text-align: center;
+        text-overflow: ellipsis;
+        word-wrap: break-word;
+    }
+    button {
+        flex:  0 0 auto;
+    }
+}
